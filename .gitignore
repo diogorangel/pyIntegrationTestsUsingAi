@@ -1,0 +1,5 @@
+# Git Ignore 
+.pytest_cache/
+directorydata_service/.pytest_cache/
+tests/.pytest_cache/
+__pycache__/
