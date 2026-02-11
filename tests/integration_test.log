@@ -1,0 +1,24 @@
+2026-02-11 18:25:04,058 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'qwerty'}
+2026-02-11 18:25:04,064 - INFO - Received response status: 200
+2026-02-11 18:25:04,070 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'admin'}
+2026-02-11 18:25:04,097 - INFO - Received response status: 401
+2026-02-11 18:31:10,198 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'qwerty'}
+2026-02-11 18:31:10,204 - INFO - Received response status: 200
+2026-02-11 18:31:10,210 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'admin'}
+2026-02-11 18:31:10,214 - INFO - Received response status: 401
+2026-02-11 18:33:49,912 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'qwerty'}
+2026-02-11 18:33:49,919 - INFO - Received response status: 200
+2026-02-11 18:33:49,921 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'admin'}
+2026-02-11 18:33:49,925 - INFO - Received response status: 401
+2026-02-11 18:35:17,405 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'qwerty'}
+2026-02-11 18:35:17,411 - INFO - Received response status: 200
+2026-02-11 18:35:17,413 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'admin'}
+2026-02-11 18:35:17,417 - INFO - Received response status: 401
+2026-02-11 18:36:15,801 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'qwerty'}
+2026-02-11 18:36:15,807 - INFO - Received response status: 200
+2026-02-11 18:36:15,810 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'admin'}
+2026-02-11 18:36:15,813 - INFO - Received response status: 401
+2026-02-11 18:37:01,669 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'qwerty'}
+2026-02-11 18:37:01,675 - INFO - Received response status: 200
+2026-02-11 18:37:01,676 - INFO - Sending request to http://127.0.0.1:8000/users/ with params {'username': 'admin', 'password': 'admin'}
+2026-02-11 18:37:01,680 - INFO - Received response status: 401

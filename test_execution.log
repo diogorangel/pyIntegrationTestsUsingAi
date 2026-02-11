@@ -1,0 +1,48 @@
+2026-02-11 18:20:36,686 - INFO - Running test_find_and_replace
+2026-02-11 18:20:36,687 - INFO - Attempting to replace 'apples' with 'bananas'
+2026-02-11 18:20:36,688 - INFO - Replacement successful
+2026-02-11 18:20:36,690 - INFO - Running test_find_and_replace_error
+2026-02-11 18:20:36,690 - INFO - Attempting to replace 'bananas' with 'pears'
+2026-02-11 18:20:36,694 - INFO - Running test_get_random_item_no_mock
+2026-02-11 18:20:36,694 - INFO - Random choice selected: alpha
+2026-02-11 18:20:36,697 - INFO - Running test_get_random_item with mock
+2026-02-11 18:20:36,700 - INFO - Random choice selected: alpha
+2026-02-11 18:20:36,706 - INFO - Running test_gather_input
+2026-02-11 18:20:36,707 - INFO - Prompting user with: Enter input: 
+2026-02-11 18:20:36,726 - INFO - Running test_get_data_from_file with tmp_path
+2026-02-11 18:20:36,729 - INFO - Reading from file: C:\Users\DiogoRangelDosSantos\AppData\Local\Temp\pytest-of-DiogoRangelDosSantos\pytest-0\test_get_data_from_file0\test.txt
+2026-02-11 18:20:36,730 - INFO - Read contents: file contents
+2026-02-11 18:20:36,731 - INFO - Running test_get_data_from_file with mock
+2026-02-11 18:20:36,732 - INFO - Reading from file: test.txt
+2026-02-11 18:20:36,733 - INFO - Read contents: file contents
+2026-02-11 18:20:36,734 - INFO - Setting up mock for psycopg2.connect
+2026-02-11 18:20:36,735 - INFO - Running test_get_user_id_1 with mock
+2026-02-11 18:20:36,735 - INFO - Connecting to PostgreSQL database
+2026-02-11 18:20:36,736 - INFO - Executing query for user ID 1
+2026-02-11 18:20:36,736 - INFO - User fetched: test_user
+2026-02-11 18:20:36,736 - INFO - Closing cursor and connection
+2026-02-11 18:20:36,739 - INFO - Skipping real DB test (no test DB configured)
+2026-02-11 18:21:26,094 - INFO - Running test_find_and_replace
+2026-02-11 18:21:26,095 - INFO - Attempting to replace 'apples' with 'bananas'
+2026-02-11 18:21:26,095 - INFO - Replacement successful
+2026-02-11 18:21:26,098 - INFO - Running test_find_and_replace_error
+2026-02-11 18:21:26,099 - INFO - Attempting to replace 'bananas' with 'pears'
+2026-02-11 18:21:26,101 - INFO - Running test_get_random_item_no_mock
+2026-02-11 18:21:26,102 - INFO - Random choice selected: delta
+2026-02-11 18:21:26,103 - INFO - Running test_get_random_item with mock
+2026-02-11 18:21:26,104 - INFO - Random choice selected: alpha
+2026-02-11 18:21:26,105 - INFO - Running test_gather_input
+2026-02-11 18:21:26,106 - INFO - Prompting user with: Enter input: 
+2026-02-11 18:21:26,122 - INFO - Running test_get_data_from_file with tmp_path
+2026-02-11 18:21:26,125 - INFO - Reading from file: C:\Users\DiogoRangelDosSantos\AppData\Local\Temp\pytest-of-DiogoRangelDosSantos\pytest-1\test_get_data_from_file0\test.txt
+2026-02-11 18:21:26,126 - INFO - Read contents: file contents
+2026-02-11 18:21:26,129 - INFO - Running test_get_data_from_file with mock
+2026-02-11 18:21:26,134 - INFO - Reading from file: test.txt
+2026-02-11 18:21:26,136 - INFO - Read contents: file contents
+2026-02-11 18:21:26,140 - INFO - Setting up mock for psycopg2.connect
+2026-02-11 18:21:26,142 - INFO - Running test_get_user_id_1 with mock
+2026-02-11 18:21:26,143 - INFO - Connecting to PostgreSQL database
+2026-02-11 18:21:26,143 - INFO - Executing query for user ID 1
+2026-02-11 18:21:26,143 - INFO - User fetched: test_user
+2026-02-11 18:21:26,143 - INFO - Closing cursor and connection
+2026-02-11 18:21:26,147 - INFO - Skipping real DB test (no test DB configured)
